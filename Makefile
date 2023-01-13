@@ -11,4 +11,4 @@ main.o: X11_corner_barrier.c
 
 .PHONY: clean
 clean:
-	rm mouse_corner_barrier
+	rm pointer_barrier

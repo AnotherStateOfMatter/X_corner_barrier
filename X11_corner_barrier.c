@@ -53,7 +53,6 @@ typedef struct{
 DisplayParameters* displayParameterArray;
 PointerBarrierHolder* pointerBarrierArray;
 
-int barrier_y;
 Display *dpy;
 Window window;
 
